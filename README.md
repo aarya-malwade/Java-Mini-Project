@@ -1,1 +1,1 @@
-# Java-Task-and-Practical
+# Java-Mini Project
